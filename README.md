@@ -16,7 +16,7 @@ Importance of choosing the right data structure (hash maps for quick lookups).
 
 Optimizing from quadratic to linear time complexity.
 
-File Location: solutions/two_sum.py (or solutions/twoSum.cpp, etc., depending on language)
+
 
 Example (from LeetCode):
 Input: nums = [2,7,11,15], target = 9
